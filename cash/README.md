@@ -10,7 +10,7 @@ To run the default mode of the application go to the folder where cash.js is and
 
 You will have the basic default output:
 
-![Value of the japanese yen in different currencies] (images/Basic output.png)
+![Value of the japanese yen in different currencies] (https://github.com/Nighthyst/3-musketeers/blob/master/cash/images/Basic%20output.PNG)
 
 Meanwhile you can change which currency you want as the reference and which currencies will be compared to this one with the syntax npm index --set
 
@@ -26,7 +26,7 @@ Meanwhile you can change which currency you want as the reference and which curr
 
 For example :
 
-![Using --set]()
+![Using --set](https://github.com/Nighthyst/3-musketeers/blob/master/cash/images/using_--set.PNG)
 
 ### node index --save
 
@@ -36,7 +36,7 @@ Pay attention to the fact that with this command line you do not change the defa
 
 Here is an example :
 
-![The power of --save]()
+![The power of --save](https://github.com/Nighthyst/3-musketeers/blob/master/cash/images/--save%20power.PNG)
 
 You CAN'T combine --set and --save to set and save in one command line.
 
@@ -48,7 +48,7 @@ Knowing the exchange rate of a currency is great but you can use the API to conv
 
 You will end up with the amount of money in the reference currency converted in all currencies listed after. Example :
 
-![Currency conversion] ()
+![Currency conversion] (https://github.com/Nighthyst/3-musketeers/blob/master/cash/images/conversion.PNG)
 
 
 Here you can find all possible currencies names [here](https://api.exchangeratesapi.io/latest).
