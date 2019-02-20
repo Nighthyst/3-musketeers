@@ -48,7 +48,7 @@ Knowing the exchange rate of a currency is great but you can use the API to conv
 
 You will end up with the amount of money in the reference currency converted in all currencies listed after. Example :
 
-![Currency conversion] (https://github.com/Nighthyst/3-musketeers/blob/master/cash/images/conversion.PNG)
+![Currency conversion](https://github.com/Nighthyst/3-musketeers/blob/master/cash/images/conversion.PNG)
 
 
 Here you can find all possible currencies names [here](https://api.exchangeratesapi.io/latest).
