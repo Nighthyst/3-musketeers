@@ -10,7 +10,7 @@ To run the default mode of the application go to the folder where cash.js is and
 
 You will have the basic default output:
 
-[Value of the japanese yen in different currencies] (images/Basic output.png)
+![Value of the japanese yen in different currencies] (images/Basic output.png)
 
 # API
 
