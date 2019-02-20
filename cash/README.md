@@ -1,12 +1,16 @@
 # Cash
 
-The purpose of this module is to know the value one currency regarding to other currencies.
+The purpose of this module is to know the value of one currency regarding to other currencies.
 
 # Example
 
-To run the application go to the folder where cash.js is and open a terminal and run the command :
+To run the default mode of the application go to the folder where cash.js is and open a terminal and run the command :
 
     node cash.js
+
+You will have the basic default output:
+
+[Value of the japanese yen in different currencies] (images/Basic output.png)
 
 # API
 

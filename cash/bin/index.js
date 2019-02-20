@@ -14,13 +14,14 @@ const {DEFAULT_TO_CURRENCIES} = require('./constants');
 
 const cli = meow(`
 	Usage
-		$ cash <amount> <from> <to>
-		$ cash <options>
+		$ index <amount> <from> <to>
+		$ index <options>
 	Options
 		--set -s 			Set default currencies
 	Examples
-		$ cash 10 usd eur pln
-		$ cash --set usd aud
+		$ index 10 usd eur pln
+		$ index --set USD AUD
+		$ index --save USD AUD
 `);
 
 if (argv.indexOf('--save') !== -1 || argv.indexOf('-s') !== -1) {
